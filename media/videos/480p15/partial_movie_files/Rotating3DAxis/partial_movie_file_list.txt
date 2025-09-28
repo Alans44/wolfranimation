@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/1908118877_3782371561_374751852.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/1436939492_2046368311_3760385428.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/1436939492_2150755289_2023860264.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/1436939492_1530275952_2986558150.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/1436939492_1524833485_2204439724.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/1436939492_4185014070_3387587823.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/902386095_2849243491_1275197643.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/1089967168_3698673023_247362329.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/617038921_1336138486_2769429304.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/617038921_3480634699_223132457.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/480p15/partial_movie_files/Rotating3DAxis/617038921_789064381_3239249921.mp4'
