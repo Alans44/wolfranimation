@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/1385205532_4200392593_374751852.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/2587282329_3649209214_1276386037.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/2587282329_780677154_2023860264.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/2587282329_1530275952_1766882870.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/2587282329_1243717263_1910254615.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/2587282329_2071048772_2741364762.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/2932220734_2849243491_437622249.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/910345628_1635908000_689067197.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/910345628_1336138486_2051577047.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/910345628_1809150168_223132457.mp4'
+file 'file:C:/Users/fuent/OneDrive/Desktop/shellhacks/media/videos/1080p60/partial_movie_files/Rotating3DAxis/910345628_789064381_1995067510.mp4'
